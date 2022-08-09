@@ -1,13 +1,13 @@
 ### Hi there 작성중👋
 - 🔭 I’m currently working on STCLAB as a intern
-
+- 🌱 I’m currently learning Data Practice Course in Yeongdeungpo SeSac education
 <!--
 **mae05051/mae05051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
