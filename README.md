@@ -1,6 +1,6 @@
-### Hi there 작성중👋
+### 
 - 🔭 I’m currently working on STCLAB as a intern
-- 👯 I am working on a netfunnel test framework in the company.
+- 👯 I am working on a NF Test Framework in the company.
 - 🌱 I’m currently learning Data Practice Course in Yeongdeungpo SeSac education
 <!--
 **mae05051/mae05051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
